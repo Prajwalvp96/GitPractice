@@ -1,3 +1,0 @@
-git pull,git push
-git clone --path--
-git status
